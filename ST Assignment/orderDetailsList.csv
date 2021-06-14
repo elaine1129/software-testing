@@ -1,0 +1,9 @@
+OrderId,OrderDetailsId,ItemName,Quantity,Price
+O0000,OD0001,Butter cake,2,92.00
+O0001,OD0001,Burnt Cheesecake,1,120.00
+O0002,OD0001,Marble cake,1,77.20
+O0003,OD0001,Butter cake,1,46.00
+O0004,OD0001,Butter cake,2,92.00
+O0004,OD0002,Marble cake,1,76.50
+O0005,OD0001,Burnt Cheesecake,1,125.00
+O0006,OD0001,Marble cake,1,76.50

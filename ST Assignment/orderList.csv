@@ -1,0 +1,8 @@
+Id,UserId,TotalPrice,OrderStatus,PaymentMethod
+O0000,M001,94.50,Paid & Ready for Delivery,Online Banking
+O0001,M001,122.50,Paid & Ready for Delivery,Online Banking
+O0002,GUEST,80.70,Paid & Ready for Delivery,Credit Card
+O0003,M001,48.50,Paid & Ready for Delivery,Online Banking
+O0004,M001,171.00,Paid & Ready for Delivery,Online Banking
+O0005,GUEST,128.50,Paid & Ready for Delivery,Credit Card
+O0006,M002,80.00,Paid & Ready for Delivery,Online Banking

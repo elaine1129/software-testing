@@ -1,0 +1,21 @@
+Id,Name,Type,MemberPrice,NonMemberPrice,PromotionalItem
+1,Butter cake,Cake,46,46.8,No
+2,Marble cake,Cake,76.5,77.2,No
+3,Burnt Cheesecake,Cake,120,125,No
+4,Chocolate Indulgence,Cake,98,105,No
+5,Tiramisu Cake,Cake,98,105,No
+6,Oreo Cheese,Cake,98,105,No
+7,Black Forest,Cake,130,135,No
+8,Carrot Cake,Cake,70,75,No
+9,Chocolate Cake,Cake,85,90,No
+10,Red Velvet,Cake,125,130,No
+11,Absolute Durian,Cake,135,140,Yes
+12,Salted Caramel Macadamia Cheese,Cake,180,185,Yes
+13,White Chocolate Cake,Cake,95,98,Yes
+14,Apple pie (3 pieces),Pastry,9.3,9.9,No
+15,Cinnamon Roll (2 pieces),Pastry,8.2,8.7,No
+16,Croissant,Pastry,4.2,4.5,No
+17,Macaron (5 pieces),Pastry,15,15.5,No
+18,Pretzel (2 pieces),Pastry,13,13.6,No
+19,Pineapple tart (1 container),Pastry,39,42,Yes
+20,Spring roll (1 container),Pastry,30,32,Yes

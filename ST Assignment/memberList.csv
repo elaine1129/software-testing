@@ -1,0 +1,3 @@
+ID,Name,Password,PhoneNumber,UnitNumber,StreetName,PostalCode,Area,District,State
+M001,test,test,012345678,1,jalan test,11111,Alor Gajah,test,Melaka
+M002,aMember,1,1,1,1,1,Bukit Beruang,1,Melaka
